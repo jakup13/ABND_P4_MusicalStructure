@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <color name="colorPrimary">#14222f</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff6e40</color>
+
+    <!-- Background color for app -->
+    <color name="appBackground">#FFF7DA</color>
+    <!-- Background color Albumbums Button -->
+    <color name="colorAlbums">#1f2b3b</color>
+    <!-- Background color Songongs Button -->
+    <color name="colorSongs">#233446</color>
+    <!-- Background color for Now playing Button -->
+    <color name="colorPlaying">#283f51</color>
+    <color name="text_color">#ffffff</color>
+</resources>
